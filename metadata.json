@@ -1,0 +1,6 @@
+{
+  "name": "Pasitos de Aprendizaje Family Child Care",
+  "description": "Premier EEC Licensed (#9144837) bilingual English-Spanish Montessori-inspired family child care in Dorchester, Boston MA for infants, toddlers, and preschoolers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

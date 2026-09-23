@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 10 200 190" width="100%" height="100%">
+  <!-- Open Book Base (Red Book Base) -->
+  <g id="book-base">
+    <path d="M108 162 C150 152 190 158 200 167 C210 158 250 152 292 162 C295 163 297 166 295 170 C290 182 250 192 200 186 C150 192 110 182 105 170 C103 166 105 163 108 162 Z" fill="#EF4444" />
+    <path d="M112 161 C152 150 192 156 200 163 C208 156 248 150 288 161 C286 168 250 178 200 172 C150 178 114 168 112 161 Z" fill="#F87171" />
+  </g>
+  <!-- Open White Pages -->
+  <g id="book-pages">
+    <path d="M114 158 C152 144 192 148 199 157 L199 122 C192 114 152 110 114 122 Z" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+    <path d="M286 158 C248 144 208 148 201 157 L201 122 C208 114 248 110 286 122 Z" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5" />
+    <line x1="200" y1="120" x2="200" y2="160" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
+  </g>
+  <!-- Arch of 6 Whimsical Colorful Stars -->
+  <polygon points="135,28 138,36 147,36 140,41 143,49 135,44 127,49 130,41 123,36 132,36" fill="#FACC15" />
+  <polygon points="175,18 178,25 186,25 180,30 182,37 175,33 168,37 170,30 164,25 172,25" fill="#A3E635" />
+  <polygon points="220,16 223,24 232,24 225,29 228,37 220,32 212,37 215,29 208,24 217,24" fill="#FF6B9D" />
+  <polygon points="260,20 263,28 271,28 265,33 267,41 260,36 253,41 255,33 249,28 257,28" fill="#86EFAC" />
+  <polygon points="276,46 279,53 287,53 281,58 283,65 276,60 269,65 271,58 265,53 273,53" fill="#F59E0B" />
+  <polygon points="120,44 123,51 131,51 125,56 127,63 120,59 113,63 115,56 109,51 117,51" fill="#38BDF8" />
+  <!-- Left Child: Pink Girl -->
+  <g id="pink-girl">
+    <circle cx="155" cy="46" r="17" fill="#FF6B9D" />
+    <path d="M141 46 C134 46 130 54 135 60 C140 66 148 58 144 50 Z" fill="#FF6B9D" />
+    <path d="M144 60 C136 64 128 72 126 77 C125 79 127 82 130 81 C135 79 142 70 148 66 Z" fill="#FF6B9D" />
+    <path d="M165 58 C172 52 180 44 186 38 C188 36 190 38 189 40 C184 48 174 58 168 64 Z" fill="#FF6B9D" />
+    <path d="M145 61 Q155 58 165 61 L178 98 Q155 106 132 98 Z" fill="#FF6B9D" />
+    <path d="M140 98 C138 106 138 116 142 124 C143 127 146 128 149 126 C152 124 150 114 148 104 Z" fill="#FF6B9D" />
+    <path d="M166 98 C172 104 175 112 174 120 C173 123 169 125 166 123 C162 119 160 109 160 102 Z" fill="#FF6B9D" />
+    <ellipse cx="145" cy="126" rx="5" ry="3.5" fill="#FF6B9D" />
+    <ellipse cx="170" cy="123" rx="5" ry="3.5" fill="#FF6B9D" />
+  </g>
+  <!-- Right Child: Blue Boy -->
+  <g id="blue-boy">
+    <circle cx="240" cy="44" r="17" fill="#3AB0FF" />
+    <path d="M236 28 L238 23 L242 27 L246 22 L248 27 L253 24 L252 30" stroke="#3AB0FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <path d="M230 58 C224 52 216 44 210 38 C208 36 206 38 207 40 C212 48 222 58 228 64 Z" fill="#3AB0FF" />
+    <path d="M252 58 C260 62 268 70 271 75 C272 77 270 80 267 79 C262 77 254 68 248 64 Z" fill="#3AB0FF" />
+    <path d="M230 61 L252 61 L254 94 L228 94 Z" fill="#3AB0FF" />
+    <path d="M228 93 L254 93 L258 114 L244 114 L241 104 L238 114 L224 114 Z" fill="#1D4ED8" />
+    <path d="M230 114 L230 126 C230 128 227 129 225 128 L220 124 C218 122 220 118 224 115 Z" fill="#3AB0FF" />
+    <path d="M250 114 L252 125 C253 128 257 128 259 126 L264 122 C266 120 263 116 258 114 Z" fill="#3AB0FF" />
+    <ellipse cx="222" cy="126" rx="5" ry="3.5" fill="#3AB0FF" />
+    <ellipse cx="261" cy="124" rx="5" ry="3.5" fill="#3AB0FF" />
+  </g>
+</svg>
