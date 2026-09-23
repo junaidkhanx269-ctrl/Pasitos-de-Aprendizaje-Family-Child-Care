@@ -105,7 +105,7 @@ export const Hero: React.FC<HeroProps> = ({ lang, onOpenTourModal }) => {
               {/* Primary Visual Container */}
               <div className="relative rounded-[22px] overflow-hidden aspect-[4/3] sm:aspect-[16/11] bg-[#F2EDE4]">
                 <img
-                  src="/src/assets/images/hero_daycare_montessori_1790173657765.jpg"
+                  src="/assets/images/hero_daycare_montessori_1790173657765.jpg"
                   alt="Happy diverse children playing with wooden Montessori blocks in warm home daycare setting"
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
                   referrerPolicy="no-referrer"

@@ -33,7 +33,7 @@ export const AboutSection: React.FC<AboutSectionProps> = ({ lang, onOpenTourModa
             <div className="relative rounded-[28px] p-3 bg-white border border-[#EADBCA] shadow-card">
               <div className="relative rounded-[22px] overflow-hidden aspect-[4/3] bg-[#F2EDE4]">
                 <img
-                  src="/src/assets/images/about_elvira_educator_1790173674805.jpg"
+                  src="/assets/images/about_elvira_educator_1790173674805.jpg"
                   alt="Elvira Castillo, Director & Lead Educator at Pasitos de Aprendizaje Family Child Care"
                   loading="lazy"
                   className="w-full h-full object-cover"

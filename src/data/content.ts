@@ -155,7 +155,7 @@ export const daycareData = {
         name: "Elvira Castillo",
         role: "Owner, Director & Lead Educator",
         roleDetail: "Maestra Certificada y Asociada en CDA",
-        image: "/src/assets/images/team_director_cda_1790174292603.jpg",
+        image: "/assets/images/team_director_cda_1790174292603.jpg",
         quote: "I am a CDA-certified associate teacher, deeply passionate about the care and early education of little ones. In my Family Child Care home, I provide an environment filled with love, learning, and safety, ensuring every child feels right at home.",
         quoteOriginal: "Soy maestra certificada y asociada en CDA, apasionada por el cuidado y la educación de los más pequeños. En mi Family Child Care ofrezco un espacio lleno de amor, aprendizaje y seguridad, para que los niños se sientan como en casa.",
         credentials: [
@@ -170,7 +170,7 @@ export const daycareData = {
         name: "Certified Assistant",
         role: "Certified Family Child Care Assistant",
         roleDetail: "Asistente Certificada en Family Child Care",
-        image: "/src/assets/images/team_assistant_cert_1790174311107.jpg",
+        image: "/assets/images/team_assistant_cert_1790174311107.jpg",
         quote: "I am a certified Family Child Care assistant and proud member of the Pasitos de Aprendizaje Child Care team. My calling is to provide an environment filled with love, security, and joyful learning. I am dedicated to accompanying each child through their comprehensive development with patience, responsibility, and core values that foster their confidence and creativity.",
         quoteOriginal: "Soy asistente certificada en Family Child Care y formo parte del equipo de Pasitos de Aprendizaje Child Care. Mi vocación es brindar un ambiente lleno de amor, seguridad y aprendizaje. Estoy comprometida en acompañar a cada niño en su desarrollo integral, con paciencia, responsabilidad y valores que fortalezcan su confianza y creatividad.",
         credentials: [
@@ -186,7 +186,7 @@ export const daycareData = {
       title: "Plan Curricular Mensual",
       subtitleTag: "Práctico para el aprendizaje de los niños",
       description: "Our structured Monthly Curriculum Plan ('Plan Curricular Mensual') bridges Montessori autonomy, bilingual literacy, hands-on sensory exploration, and early STEAM foundations. Children don't just spend time—they blossom with purpose.",
-      binderImage: "/src/assets/images/curriculum_binder_plan_1790174324280.jpg",
+      binderImage: "/assets/images/curriculum_binder_plan_1790174324280.jpg",
       binderCaption: "Official Classroom Curriculum Plan — Pasitos de Aprendizaje Family Child Care",
       curriculumPoints: [
         {
@@ -723,7 +723,7 @@ export const daycareData = {
         name: "Elvira Castillo",
         role: "Propietaria, Directora y Educadora Principal",
         roleDetail: "Maestra Certificada y Asociada en CDA",
-        image: "/src/assets/images/team_director_cda_1790174292603.jpg",
+        image: "/assets/images/team_director_cda_1790174292603.jpg",
         quote: "Soy maestra certificada y asociada en CDA, apasionada por el cuidado y la educación de los más pequeños. En mi Family Child Care ofrezco un espacio lleno de amor, aprendizaje y seguridad, para que los niños se sientan como en casa.",
         quoteOriginal: "Soy maestra certificada y asociada en CDA, apasionada por el cuidado y la educación de los más pequeños. En mi Family Child Care ofrezco un espacio lleno de amor, aprendizaje y seguridad, para que los niños se sientan como en casa.",
         credentials: [
@@ -738,7 +738,7 @@ export const daycareData = {
         name: "Asistente Certificada",
         role: "Asistente Certificada en Family Child Care",
         roleDetail: "Equipo Pasitos de Aprendizaje",
-        image: "/src/assets/images/team_assistant_cert_1790174311107.jpg",
+        image: "/assets/images/team_assistant_cert_1790174311107.jpg",
         quote: "Soy asistente certificada en Family Child Care y formo parte del equipo de Pasitos de Aprendizaje Child Care. Mi vocación es brindar un ambiente lleno de amor, seguridad y aprendizaje. Estoy comprometida en acompañar a cada niño en su desarrollo integral, con paciencia, responsabilidad y valores que fortalezcan su confianza y creatividad.",
         quoteOriginal: "Soy asistente certificada en Family Child Care y formo parte del equipo de Pasitos de Aprendizaje Child Care. Mi vocación es brindar un ambiente lleno de amor, seguridad y aprendizaje. Estoy comprometida en acompañar a cada niño en su desarrollo integral, con paciencia, responsabilidad y valores que fortalezcan su confianza y creatividad.",
         credentials: [
@@ -754,7 +754,7 @@ export const daycareData = {
       title: "Plan Curricular Mensual",
       subtitleTag: "Práctico para el aprendizaje de los niños",
       description: "Nuestro Plan Curricular Mensual estructurado combina autonomía Montessori, alfabetización bilingüe, exploración artística sensorial y matemáticas tempranas. Los niños no solo pasan el día: crecen y florecen con propósito.",
-      binderImage: "/src/assets/images/curriculum_binder_plan_1790174324280.jpg",
+      binderImage: "/assets/images/curriculum_binder_plan_1790174324280.jpg",
       binderCaption: "Carpeta Oficial del Plan Curricular — Pasitos de Aprendizaje Family Child Care",
       curriculumPoints: [
         {
